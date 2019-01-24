@@ -1,0 +1,6 @@
+#what is the meaning of this code?
+x, y = 42, 0
+def calc(y):
+    x, y, z=24, y+1, 47, 11
+    return y
+#x should be cal (0). What comes out for x / y / z
